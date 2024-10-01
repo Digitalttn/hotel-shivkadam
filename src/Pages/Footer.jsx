@@ -12,11 +12,13 @@ const Footer = () => {
           {/* Contact Information */}
           <div className="mb-6 md:mb-0">
             <h3 className="text-xl font-semibold mb-4">Contact Us</h3>
-            <p className="text-sm mb-2">Shivkadam Hotel</p>
-            <p className="text-sm mb-2">123 Main Street</p>
-            <p className="text-sm mb-2">City, Country</p>
-            <p className="text-sm mb-2">Phone: (123) 456-7890</p>
-            <p className="text-sm mb-2">Email: info@shivkadamhotel.com</p>
+            <p className="text-sm mb-2">Hotel Shivkadamb</p>
+            <p className="text-sm mb-2">Badrinath </p>
+            <p className="text-sm mb-2">joshimath, india</p>
+            <p className="text-sm mb-2">Phone:+91 92581 26088
++91 92581 26089
++91 93893 01916</p>
+            <p className="text-sm mb-2">Email: salesinfo@traveltonirvana.com</p>
           </div>
 
           {/* Navigation Links */}
@@ -34,16 +36,14 @@ const Footer = () => {
           <div className="mb-6 md:mb-0">
             <h3 className="text-xl font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="https://facebook.com" className="text-white hover:text-gray-400" aria-label="Facebook">
+              <a href="https://www.facebook.com/traveltonirvana/" className="text-white hover:text-gray-400" aria-label="Facebook">
                 <FaFacebookF size={20} />
               </a>
-              <a href="https://twitter.com" className="text-white hover:text-gray-400" aria-label="Twitter">
-                <FaTwitter size={20} />
-              </a>
-              <a href="https://instagram.com" className="text-white hover:text-gray-400" aria-label="Instagram">
+            
+              <a href="https://www.instagram.com/p/C9buaWwBLSf/?igsh=M3YwZWdvOTRjZ2h5" className="text-white hover:text-gray-400" aria-label="Instagram">
                 <FaInstagram size={20} />
               </a>
-              <a href="https://linkedin.com" className="text-white hover:text-gray-400" aria-label="LinkedIn">
+              <a href="https://www.youtube.com/@Traveltonirvanaharidwar" className="text-white hover:text-gray-400" aria-label="LinkedIn">
                 <FaLinkedinIn size={20} />
               </a>
             </div>
