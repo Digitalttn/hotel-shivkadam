@@ -1,8 +1,2 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hotel Shivkadamb is a luxurious retreat nestled in the serene and spiritual town of Badrinath, offering guests a perfect blend of comfort, elegance, and tranquility. Designed for travelers seeking a peaceful escape, the hotel features spacious, well-appointed rooms that provide modern amenities with a touch of traditional warmth. Whether you’re visiting for pilgrimage, leisure, or business, Shivkadamb Hotel ensures an exceptional experience with its fine dining options, personalized services, and attention to detail.
